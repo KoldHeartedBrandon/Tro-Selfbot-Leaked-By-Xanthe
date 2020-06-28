@@ -1,2 +1,12 @@
 # Tro-Selfbot-Leaked
-This was leaked by dev and shawn aka sdot and money
+A Selfbot for Discord
+
+
+
+
+
+
+INSTALLATION & LAUNCH - Thanks Xanthe
+BEFORE DOING ANYTHING EXTRACT ALL!!
+JUST LAUNCH CONFIG.TXT and put your token
+Then Launch Selfbot.exe
